@@ -1,0 +1,19 @@
+body {background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
+margin: 0;
+
+}
+
+button {
+    background-color: aquamarine;
+    color:aliceblue
+    font-family:"bai jamjurce", sans-serif;
+
+}
+
+posso{
+    display:none;
+}
